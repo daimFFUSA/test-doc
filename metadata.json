@@ -1,0 +1,6 @@
+{
+  "name": "Broken Chains Prison Education",
+  "description": "Faith-based correspondence college education and 10-to-1 Band of Brothers mentorship for incarcerated students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
